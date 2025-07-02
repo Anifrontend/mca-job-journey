@@ -21,3 +21,8 @@
 
 - [x] Solved DSA Problem: `strStr()` (Find Index of First Occurrence in String) on LeetCode.
 - [x] Pushed React Color Changer App to GitHub.
+### ✅ Day 5 – July 2, 2025
+
+- [x] Solved DSA Problem: Merge Sorted Array (LeetCode)
+- [x] Built and pushed React Password Strength Checker
+- [x] Practiced Git, commits, pushing new repo
