@@ -17,3 +17,7 @@
 - Complete 6+ DSA problems
 - Build 2 DOM Projects
 - Get comfortable with GitHub + React basics
+### ✅ Day 4 – July 1, 2025
+
+- [x] Solved DSA Problem: `strStr()` (Find Index of First Occurrence in String) on LeetCode.
+- [x] Pushed React Color Changer App to GitHub.
