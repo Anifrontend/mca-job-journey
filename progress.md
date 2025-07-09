@@ -31,3 +31,8 @@
 - [x] Solved: Maximum Subarray (Kadane's Algorithm)
 - [x] Built: React Theme Toggle App (Dark/Light Mode)
 - [x] Added proper README to 2 GitHub projects
+### ✅ Day 7 – July 7, 2025
+
+- [x] learned about AI.
+- [x] Built: AI agent at chatgpt
+- [x] added properly in readme
